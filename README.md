@@ -2,7 +2,7 @@
   <img src="images/banner.png" alt="German Pinchao Banner" width="100%">
 </p>
 
-# 👋 Hola, soy German Pinchao
+# Hola, soy German Pinchao
 
 ### Full Stack Software Engineer | Laravel • React • TypeScript • PHP
 
@@ -12,8 +12,11 @@ Mi experiencia se centra en el desarrollo con **Laravel, React, TypeScript, PHP 
 
 Actualmente desarrollo soluciones para los sectores **inmobiliario, hotelero, comercial y empresarial**, siempre con el objetivo de automatizar procesos, optimizar la operación y ofrecer una excelente experiencia de usuario.
 
+### Contacto
+<p align="center"> <a href="https://www.linkedin.com/in/german-pinchao-7a0b6895" target="_blank">LinkedIn</a> · <a href="mailto:german.pinchao@gmail.com" target="_blank">german.pinchao@gmail.com</a> · <a href="https://wa.me/573155938379" target="_blank">WhatsApp</a> </p>
 
-## 🚀 Lo que hago
+
+##  Lo que hago
 
 -  Desarrollo aplicaciones web modernas y escalables.
 -  Diseño y desarrollo plataformas SaaS.
@@ -122,3 +125,5 @@ Actualmente desarrollo soluciones para los sectores **inmobiliario, hotelero, co
 </td>
 </tr>
 </table>
+
+
