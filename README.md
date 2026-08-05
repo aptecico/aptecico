@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="images/banner.png" alt="German Pinchao Banner" width="100%">
+</p>
+
 ## Hi there 👋
 
 <!--
