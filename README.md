@@ -15,45 +15,110 @@ Actualmente desarrollo soluciones para los sectores **inmobiliario, hotelero, co
 
 ## 🚀 Lo que hago
 
-- 💻 Desarrollo aplicaciones web modernas y escalables.
-- 🏢 Diseño y desarrollo plataformas SaaS.
-- ⚡ Construyo APIs REST seguras y de alto rendimiento.
-- 🗄️ Diseño bases de datos relacionales y arquitecturas Multi-Tenant.
-- 🎨 Desarrollo interfaces modernas con React y TypeScript.
-- 📈 Optimizo procesos mediante automatización y soluciones empresariales.
-- 🔗 Integro aplicaciones con servicios y APIs de terceros.
-- 🚀 Acompaño proyectos desde el análisis hasta el despliegue en producción.
+-  Desarrollo aplicaciones web modernas y escalables.
+-  Diseño y desarrollo plataformas SaaS.
+-  Construyo APIs REST seguras y de alto rendimiento.
+-  Diseño bases de datos relacionales y arquitecturas Multi-Tenant.
+-  Desarrollo interfaces modernas con React y TypeScript.
+-  Optimizo procesos mediante automatización y soluciones empresariales.
+-  Integro aplicaciones con servicios y APIs de terceros.
+-  Acompaño proyectos desde el análisis hasta el despliegue en producción.
 
-## 🛠️ Tecnologías y Herramientas
+## Tecnologías y herramientas
 
 ### Backend
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_API-02569B?style=for-the-badge)
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs" />
+</p>
 
 ### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,tailwind,bootstrap" />
+</p>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### Bases de datos
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
 
-### Bases de Datos
+### DevOps y herramientas
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
+</p>
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### Arquitectura y experiencia
+- 🔹 APIs REST
+- 🔹 Arquitectura Multi-Tenant
+- 🔹 SaaS
+- 🔹 Autenticación y autorización
+- 🔹 Dashboards y reportes
+- 🔹 Integración con servicios externos
+- 🔹 Facturación electrónica
+- 🔹 Optimización de bases de datos
+- 🔹 Laravel + React + TypeScript
 
-### DevOps y Herramientas
+##  Proyectos destacados
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<table>
+<tr>
+<td width="50%">
 
-### Arquitectura y Metodologías
+### LOPI
 
-![SaaS](https://img.shields.io/badge/SaaS-0A66C2?style=for-the-badge)
-![Multi Tenant](https://img.shields.io/badge/Multi--Tenant-0052CC?style=for-the-badge)
-![API REST](https://img.shields.io/badge/API_REST-009688?style=for-the-badge)
-![MVC](https://img.shields.io/badge/MVC-6C757D?style=for-the-badge)
+**Plataforma SaaS para administración inmobiliaria**
+
+- Arquitectura Multi-Tenant
+- Cobros recurrentes
+- Estados de cuenta
+- Recibos de pago
+- Dashboard financiero
+- Notificaciones por WhatsApp y correo
+- Laravel 13 + React 19 + TypeScript
+
+</td>
+<td width="50%">
+
+###  SAHO
+
+**Sistema integral de gestión hotelera**
+
+- Reservas
+- Check-in / Check-out
+- Caja y pagos
+- Consumos
+- Calendario interactivo
+- Facturación electrónica
+- Laravel + React + MySQL
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+###  Sistema de Inventarios
+
+**Gestión comercial y de inventario**
+
+- Compras y ventas
+- Control de stock
+- Reportes de utilidad
+- Clientes y proveedores
+- Laravel + MySQL
+
+</td>
+<td width="50%">
+
+###  Facturación Electrónica
+
+**Integración y automatización de emisión electrónica**
+
+- Generación XML
+- Firma digital
+- Envío a servicios externos
+- Generación PDF
+- Laravel + APIs
+
+</td>
+</tr>
+</table>
